@@ -1,3 +1,6 @@
+#extracts count data from raw CDMetaPOP outputs
+
+
 require(plyr)
 require(data.table)
 
