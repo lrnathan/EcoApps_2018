@@ -1,3 +1,4 @@
+#generates plots from count data for manuscript.
 #note the change from previous verions! Only showing Hybrids vs BT and DV instead of hybrid classes
 
 setwd("C:/Users/Lucas/Desktop/BTDV/simulations/outputs/counts/FINAL_BTDV_COUNTS/")
